@@ -21,6 +21,9 @@
     <ClCompile Include="hkdf.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="ss_md.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="libsscrypto.def">
