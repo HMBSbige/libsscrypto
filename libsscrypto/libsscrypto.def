@@ -26,3 +26,5 @@ EXPORTS
 	cipher_get_size_ex
 	md5=mbedtls_md5
 	hkdf=mbedtls_hkdf
+	ss_hmac_ex
+	ss_md
